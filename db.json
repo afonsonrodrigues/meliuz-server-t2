@@ -1,10 +1,14 @@
 {
     "products": [
         {
-            "name": "Iphone",
-            "price": "3000",
-            "category": "phone",
-            "id": 1
+            "id": 0,
+            "name": "The Legend of Zelda",
+            "price": 250,
+            "image": "https://images-americanas.b2w.io/produtos/3709438843/imagens/zelda-skyward-sword-nintendo-switch/3709438843_1_large.jpg",
+            "offer": false,
+            "category": [2, 4],
+            "description": "The Legend of Zelda: Skyward Sword HD Nintendo Switch",
+            "discount": 2
         }
     ],
     "categories": [],
